@@ -19,8 +19,6 @@ Sommaire
 
 7.  [Les thèmes](h-les-themes.md)
 
-8.  [Gérer le menu de votre site](h-gerer-le-menu-de-votre-site)
+8.  [Gérer le menu de votre site](h-gerer-le-menu-de-votre-site.md)
 
-9. [Les réglages les plus importants d'un site WordPress](reglages-importantes-wordpress)
-
-10. [Le mot de la fin](h-le-mot-de-la-fin)
+9. [Les réglages les plus importants d'un site WordPress](reglages-importantes-wordpress.md)
