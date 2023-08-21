@@ -9,7 +9,7 @@ Sommaire
 
 2.  [Astuce : mettre l'admin WordPress en favoris](h-astuce-mettre-l-admin-wordpress-en-favoris.md)
 
-3.  [Le tableau de bord](h-le-tableau-de-bord)
+3.  [Le tableau de bord](h-le-tableau-de-bord.md)
 
 4.  [Les articles](h-les-articles)
 
