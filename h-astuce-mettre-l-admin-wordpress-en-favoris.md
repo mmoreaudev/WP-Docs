@@ -6,7 +6,6 @@ Maintenant que vous êtes connecté à l'admin WordPress, il est temps de vous a
 Dans la majorité des navigateurs, il suffira de cliquer sur l'étoile, à droite de l'adresse de la page.
 
 ![Capture d'écran - comment ajouter l'admin wordpress aux favoris](https://baptistepages.com/wp-content/uploads/2020/10/image-18-800x304.png.webp)
-<img src="https://github.com/mmoreaudev/WP-Docs/blob/main/images/TableauDeBord.webp" alt="TableauDeBoard" style="width:800px;"/>
 
 Bon !
 

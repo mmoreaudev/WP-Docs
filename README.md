@@ -5,22 +5,22 @@ Quand on le voit pour la première fois, le panneau d'administration de WordPres
 
 Sommaire
 
-1.  [Comment se connecter à l'admin WordPress ?](h-comment-se-connecter-a-l-admin-wordpress "Comment se connecter à l'admin WordPress ?")
+1.  [Comment se connecter à l'admin WordPress ?](h-comment-se-connecter-a-l-admin-wordpress.md)
 
-2.  [Astuce : mettre l'admin WordPress en favoris](h-astuce-mettre-l-admin-wordpress-en-favoris "Astuce : mettre l'admin WordPress en favoris")
+2.  [Astuce : mettre l'admin WordPress en favoris](h-astuce-mettre-l-admin-wordpress-en-favoris.md)
 
-3.  [Le tableau de bord](h-le-tableau-de-bord "Le tableau de bord")
+3.  [Le tableau de bord](h-le-tableau-de-bord)
 
-4.  [Les articles](h-les-articles "Les articles")
+4.  [Les articles](h-les-articles)
 
-5.  [Les pages](h-les-pages "Les pages")
+5.  [Les pages](h-les-pages)
 
-6.  [La bibliothèque médias](h-la-bibliotheque-medias "La bibliothèque médias")
+6.  [La bibliothèque médias](h-la-bibliotheque-medias)
 
-7.  [Les thèmes](h-les-themes "Les thèmes")
+7.  [Les thèmes](h-les-themes)
 
-8.  [Gérer le menu de votre site](h-gerer-le-menu-de-votre-site "Gérer le menu de votre site")
+8.  [Gérer le menu de votre site](h-gerer-le-menu-de-votre-site)
 
-9. [Les réglages les plus importants d'un site WordPress](reglages-importantes-wordpress "Les réglages les plus importants d'un site WordPress")
+9. [Les réglages les plus importants d'un site WordPress](reglages-importantes-wordpress)
 
-10. [Le mot de la fin](h-le-mot-de-la-fin "Le mot de la fin")
+10. [Le mot de la fin](h-le-mot-de-la-fin)
