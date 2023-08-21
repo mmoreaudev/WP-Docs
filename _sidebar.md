@@ -1,3 +1,2 @@
-- [Introduction](Introduction)
-- --- 
+- [Introduction](README.md)
 - [Connexion à l'admin](h-comment-se-connecter-a-l-admin-wordpress.md)
