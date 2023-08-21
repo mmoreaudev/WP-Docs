@@ -7,6 +7,6 @@ Par exemple, si le nom de domaine de votre site est mairiemorton.fr, alors l'adr
 
 Vous devriez arriver sur un écran de connexion comme celui-ci.
 
-<img src="https://github.com/mmoreaudev/WP-Docs/blob/main/images/LoginMorton.jpg" alt="LogoMorton" style="width:800px;"/>
+<img src="https://raw.githubusercontent.com/mmoreaudev/WP-Docs/main/images/LoginMorton.jpg" alt="LogoMorton" style="width:800px;"/>
 
 Il ne vous reste plus qu'à entrer le mot de passe et l'identifiant. Vous serez alors redirigé sur le panneau d'administration.
