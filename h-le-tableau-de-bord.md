@@ -16,4 +16,4 @@ Ensuite, avec le numéro 3, la barre d'administration de WordPress. Ici, vous av
 
 Une fois sur la partie publique du site, vous verrez que la barre d'administration est toujours là. Vous n'aurez qu'à survoler le titre de votre site dans la barre puis à cliquer sur "tableau de bord" pour revenir à la page précédente.
 
-<img src="https://github.com/mmoreaudev/WP-Docs/blob/main/images/AdminBar.jpg" alt="AdminBar" style="width:200px;"/>
+<img src="https://raw.githubusercontent.com/mmoreaudev/WP-Docs/main/images/AdminBar.jpg" alt="AdminBar" style="width:200px;"/>
