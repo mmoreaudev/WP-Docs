@@ -11,13 +11,13 @@ Sommaire
 
 3.  [Le tableau de bord](h-le-tableau-de-bord.md)
 
-4.  [Les articles](h-les-articles)
+4.  [Les articles](h-les-articles.md)
 
-5.  [Les pages](h-les-pages)
+5.  [Les pages](h-les-pages.md)
 
-6.  [La bibliothèque médias](h-la-bibliotheque-medias)
+6.  [La bibliothèque médias](h-la-bibliotheque-medias.md)
 
-7.  [Les thèmes](h-les-themes)
+7.  [Les thèmes](h-les-themes.md)
 
 8.  [Gérer le menu de votre site](h-gerer-le-menu-de-votre-site)
 
