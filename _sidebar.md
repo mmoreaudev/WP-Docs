@@ -1,2 +1,3 @@
 - [Introduction](README.md)
 - [Connexion à l'admin](h-comment-se-connecter-a-l-admin-wordpress.md)
+- [ASTUCES - Favoris](h-astuce-mettre-l-admin-wordpress-en-favoris.md)

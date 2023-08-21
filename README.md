@@ -7,22 +7,20 @@ Sommaire
 
 1.  [Comment se connecter à l'admin WordPress ?](h-comment-se-connecter-a-l-admin-wordpress "Comment se connecter à l'admin WordPress ?")
 
-2.  [Cette adresse de connexion ne fonctionne pas ?](h-cette-adresse-de-connexion-ne-fonctionne-pas "Cette adresse de connexion ne fonctionne pas ?")
+2.  [Astuce : mettre l'admin WordPress en favoris](h-astuce-mettre-l-admin-wordpress-en-favoris "Astuce : mettre l'admin WordPress en favoris")
 
-3.  [Astuce : mettre l'admin WordPress en favoris](h-astuce-mettre-l-admin-wordpress-en-favoris "Astuce : mettre l'admin WordPress en favoris")
+3.  [Le tableau de bord](h-le-tableau-de-bord "Le tableau de bord")
 
-4.  [Le tableau de bord](h-le-tableau-de-bord "Le tableau de bord")
+4.  [Les articles](h-les-articles "Les articles")
 
-5.  [Les articles](h-les-articles "Les articles")
+5.  [Les pages](h-les-pages "Les pages")
 
-6.  [Les pages](h-les-pages "Les pages")
+6.  [La bibliothèque médias](h-la-bibliotheque-medias "La bibliothèque médias")
 
-7.  [La bibliothèque médias](h-la-bibliotheque-medias "La bibliothèque médias")
+7.  [Les thèmes](h-les-themes "Les thèmes")
 
-8.  [Les thèmes](h-les-themes "Les thèmes")
+8.  [Gérer le menu de votre site](h-gerer-le-menu-de-votre-site "Gérer le menu de votre site")
 
-9.  [Gérer le menu de votre site](h-gerer-le-menu-de-votre-site "Gérer le menu de votre site")
+9. [Les réglages les plus importants d'un site WordPress](reglages-importantes-wordpress "Les réglages les plus importants d'un site WordPress")
 
-11. [Les réglages les plus importants d'un site WordPress](reglages-importantes-wordpress "Les réglages les plus importants d'un site WordPress")
-
-12. [Le mot de la fin](h-le-mot-de-la-fin "Le mot de la fin")
+10. [Le mot de la fin](h-le-mot-de-la-fin "Le mot de la fin")
